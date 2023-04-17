@@ -1,14 +1,19 @@
 <h1 align="center">A Multi-Disciplinary repository</h1>
 
-<h3 align="left">About Me</h3>
+<h3 align="left"> /// introduce-user </h3>
+
 <ul>
-  <li>Downloading... Do not turn off target!!</li>
-  <li>Ask me about how many times i bricked my phone.</li>
+  <li>Welcome to my GitHub! A journey started from when I was a mere teen, in attempts to root my S3 Mini, continues as a anything-techy enthusiast working on various software development disciplinaries. </li>
+</ul> 
+
+<h3 align="left">Ask Me</h3>
+<ul>
+  <li>About how many times i bricked my phone.</li>
 </ul> 
  
  <h3 align="left">Background</h3>
  <ul>
-  <li>İTÜ Ekrem Elginkan HS FRC Team #7071 '18-'21. 2019 Finalist Programmer & Pilot</li>
+  <li>İTÜ Ekrem Elginkan HS FRC Team #7071 '18-'21. 2019 Deep Space Finalist, Programmer & Driver</li>
   <li>Centennial College Software Engineering '20-'21</li>
   <li>GDSC GTU '22</li>
 </ul> 
