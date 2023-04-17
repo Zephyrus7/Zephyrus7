@@ -1,7 +1,5 @@
-<p>Downloading... 
-  Do not turn off target!!</p>
+<p>Knox Warranty Bit 0x1</p>
 
-![LİNUX](https://user-images.githubusercontent.com/91956626/232535034-2eb24fa4-acad-41cc-9062-28c3c30b21a7.svg) 
  
  <ul>
   <li>İTÜ HS FRC Team #7071 '18-'21.  2X Finalist Programmer & Pilot</li>
