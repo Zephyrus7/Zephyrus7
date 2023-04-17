@@ -3,7 +3,7 @@
 <h3 align="left"> /// introduce-user </h3>
 
 <ul>
-  <li>Welcome to my GitHub! A journey started from when I was a mere teen, in attempts to root my S3 Mini, continues as a anything-techy enthusiast working on various software development disciplinaries. </li>
+  <li>Welcome to my GitHub! A journey started from when I was a mere teen, in attempts to root my S3 Mini, continues as a anything-techy enthusiast exploring various software development disciplinaries. </li>
 </ul> 
 
 <h3 align="left">Ask Me</h3>
