@@ -1,4 +1,4 @@
-<p> İTÜ HS FRC Team #7071 2018-2021. Programmer & Pilot, 2 times finalist </p>
+<p> İTÜ HS FRC Team #7071 2018-2021. 2X Finalist Programmer & Pilot</p>
 <p> GDSC GTU 2022</p>
 <br>
 
