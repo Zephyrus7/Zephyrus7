@@ -1,4 +1,4 @@
-<p> İTÜ HS FRC Team #7071 '18-'21. 2X Finalist Programmer & Pilot</p>
+<p> İTÜ HS FRC Team #7071 '18-'21.  2X Finalist Programmer & Pilot</p>
 <p> Centennial College Software Engineering '20-'21
 <p> GDSC GTU '22</p>
 <br>
