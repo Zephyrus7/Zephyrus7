@@ -3,8 +3,7 @@
 <h3 align="left">About Me</h3>
 <ul>
   <li>Downloading... Do not turn off target!!</li>
-  <li>💬 Ask me about **how many times i bricked my phone.**</li>
-  <li>GDSC GTU '22</li>
+  <li>Ask me about **how many times i bricked my phone.**</li>
 </ul> 
  
  <h3 align="left">Background</h3>
