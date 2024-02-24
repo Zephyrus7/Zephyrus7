@@ -8,7 +8,7 @@
 
 <h3 align="left">Ask Me</h3>
 <ul>
-  <li>About how many times i bricked my phone.</li>
+  <li>About how many times i bricked my phone(s).</li>
 </ul> 
  
  <h3 align="left">Background</h3>
