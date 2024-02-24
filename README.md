@@ -13,7 +13,7 @@
  
  <h3 align="left">Background</h3>
  <ul>
-  <li>İTÜ Ekrem Elginkan HS FRC Team #7071 '18-'21. 2019 Deep Space finalist, programmer & driver</li>
+  <li>İTÜ Ekrem Elginkan HS FRC Team #7071 '17-'21. 2019 Deep Space finalist, programmer & driver</li>
   <li>Centennial College Software Engineering '21-'22</li>
   <li>GDSC GTU '22-</li>
 </ul> 
