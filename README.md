@@ -1,6 +1,6 @@
 <h1 align="center">A Multi-Disciplinary repository</h1>
 
-<h3 align="left"> /// introduce-user </h3>
+<h3 align="left"> /// intro </h3>
 
 <ul>
   <li>Welcome to my GitHub! A journey started in attempts to root my S3 Mini, continues as a anything-techy enthusiast exploring various software development disciplinaries. </li>
