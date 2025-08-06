@@ -19,8 +19,8 @@
 </ul> 
 <br>
 
-![Zephyrus7's Stats](https://github-readme-stats.vercel.app/api?username=Zephyrus7&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Zephyrus7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyrus7&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Zephyrus7's Stats](https://github-readme-stats.vercel.app/api?username=Zephyrus7&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+![Zephyrus7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyrus7&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 <br>
 
 
