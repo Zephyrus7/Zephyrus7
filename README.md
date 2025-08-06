@@ -3,12 +3,7 @@
 <h3 align="left"> /// intro </h3>
 
 <ul>
-  <li>A journey started in attempts to root my S3 Mini, continues as a anything-techy enthusiast exploring various software development disciplinaries. </li>
-</ul> 
-
-<h3 align="left">Ask Me</h3>
-<ul>
-  <li>About how many times i bricked my phone(s).</li>
+  <li>A journey started in attempts to root my S3 Mini (soft-bricked many times), continues as a anything-techy enthusiast exploring various software development disciplinaries. </li>
 </ul> 
  
  <h3 align="left">Background</h3>
