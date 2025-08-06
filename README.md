@@ -20,7 +20,7 @@
 <br>
 
 ![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zephyrus7&show_icons=true&theme=transparent)
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zephyrus7&show_icons=true&theme=transparent)
+![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zephyrus7&show_icons=true&theme=dark)
 <br>
 
 
