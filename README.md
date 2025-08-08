@@ -1,5 +1,3 @@
-<h1 align="center">A Multi-Disciplinary repository</h1>
-
 <h3 align="left"> /// intro </h3>
 
 <ul>
