@@ -4,7 +4,7 @@
   <li>A journey started in attempts to root my S3 Mini, continues as a anything-techy enthusiast exploring various software development disciplinaries. </li>
 </ul> 
  
- <h3 align="left">Background</h3>
+ <h3 align="left"> /// background</h3>
  <ul>
   <li>İTÜ Ekrem Elginkan HS FRC Team #7071 '17-'21. 2019 Deep Space finalist, programmer & driver</li>
   <li>Centennial College Software Engineering '21-'22</li>
