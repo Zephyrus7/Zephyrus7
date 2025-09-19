@@ -9,6 +9,7 @@
   <li>İTÜ Ekrem Elginkan HS FRC Team #7071 '17-'21. 2019 Deep Space finalist, programmer & driver</li>
   <li>Centennial College Software Engineering '21-'22</li>
   <li>GDSC GTU '22- Ongoing</li>
+  <li>Data Analyst at Logistics '25 - Ongoing </li>
 </ul> 
 
 <h3 align="left">Connect with me:</h3>
