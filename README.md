@@ -10,7 +10,6 @@
   <li>Centennial College Software Engineering '21-'22</li>
   <li>GDSC GTU '22- Ongoing</li>
 </ul> 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
